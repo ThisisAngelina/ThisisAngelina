@@ -1,10 +1,10 @@
 ## Hi there, this is Angelina 👋
 
-👩‍⚕️ I came to programming after a few years working in healthcare.
-💙 I fell in love with CS after getting exposed to it through my digital health startup [Aqt bio](https://aqt.bio), now a top app for psoriasis management.
+💻 I am a backend developer passionate about building exciting and reliable tech in a startup environment.
+I am proficient in Django (Python) backend engineering and comfortable with front-end technologies. I am also pursuing a degree in CS in addition to my programming work.
 
-💻 I am now a CS student at the University of London and an aspiring Python backend developer. 
 
-🤝 I am open to collaborating on projects reliant on Django :) 
+👩‍⚕️ I came to programming & CS after a few years working in healthcare management & consulting earlier in my career: I fell in love with software engineering after getting exposed to it through my digital health startup [Aqt bio](https://aqt.bio), now a top app for psoriasis management.
+
 
 📲 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/angelina-chigrinetc/)
