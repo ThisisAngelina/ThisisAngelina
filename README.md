@@ -1,10 +1,7 @@
 ## Hi there, this is Angelina 👋
 
-💻 I am a backend developer passionate about building exciting and reliable tech in a startup environment.
-I am proficient in Django (Python) backend engineering and comfortable with front-end technologies. I am also pursuing a degree in CS in addition to my programming work.
+💻 I am a full-stack developer passionate about building robust applications that bring joy to users and profit to the business. I love using Django for rapid backend development and React, plain Javascript, and HTMX for frontend development.​​
 
-
-👩‍⚕️ I came to programming & CS after a few years working in healthcare management & consulting earlier in my career: I fell in love with software engineering after getting exposed to it through my digital health startup [Aqt bio](https://aqt.bio), now a top app for psoriasis management.
-
+👱‍♀️ Before becoming a full-time developer, I earned degrees in business and management, worked in management consulting and ran my own startup (check out Aqt Psoriasis Coach on the AppStore).
 
 📲 You can reach out to me on [LinkedIn](https://www.linkedin.com/in/angelina-chigrinetc/)
